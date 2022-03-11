@@ -6,7 +6,7 @@
 <br><br>
 🌱 I'm working full stack as a mobile app developer <br>
 🍀 I can develop cross-platform like React-Native <br>
-🥦 I'm currently learning JS, Swift <br>
+🥦 I'm currently learning JS, React, React-Native <br>
 🌳 How to Contact me? => scalla1031@gmail.com <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJIMINSHIN&show_icons=true&theme=vue)<br><br>
