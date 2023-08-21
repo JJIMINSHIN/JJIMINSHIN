@@ -5,7 +5,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJIMINSHIN&layout=compact&theme=vue&hide=jupyter%20notebook&html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJIMINSHIN&layout=compact&theme=vue&hide=html,jupyter%20notebook)
 
 
 
